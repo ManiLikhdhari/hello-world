@@ -1,2 +1,2 @@
 # hello-world
-My ideas
+My ideas, first repo.
